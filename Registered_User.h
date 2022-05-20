@@ -1,3 +1,4 @@
+
 class Registered_User
 {
 private:
