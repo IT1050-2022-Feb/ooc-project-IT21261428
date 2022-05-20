@@ -9,5 +9,5 @@ public:
   Account(const char Acc_ID[], const char UserName[], const char
   Password[]);
   void displayDetails();
-  ~Account();
+   ~Account();
 };
