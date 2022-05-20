@@ -11,5 +11,5 @@ public:
   Registered_User();
   Registered_User(const char Reg_ID[], const   char Uname[], const char Uemail[], int Uphone[], const char Gender[], int age);
   void displayDetails();
-  ~Registered_User();
+   ~Registered_User();
 };

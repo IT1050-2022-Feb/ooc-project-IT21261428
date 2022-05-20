@@ -7,5 +7,5 @@ public:
   Reservation();
   Reservation(const char Res_ID[], const char R_date[]);
   void displayDetails();
-  ~Reservation();
+   ~Reservation();
 };
